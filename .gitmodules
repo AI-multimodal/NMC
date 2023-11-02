@@ -1,0 +1,3 @@
+[submodule "NSLS-II-ISS-xview"]
+	path = NSLS-II-ISS-xview
+	url = git@github.com:matthewcarbone/NSLS-II-ISS-xview
